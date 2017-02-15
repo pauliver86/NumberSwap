@@ -1,0 +1,9 @@
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\bin\Debug\week2activity.exe.config
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\obj\Debug\week2activity.Form1.resources
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\obj\Debug\week2activity.Properties.Resources.resources
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\obj\Debug\week2activity.csproj.GenerateResource.Cache
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\bin\Debug\week2activity.exe
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\bin\Debug\week2activity.pdb
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\obj\Debug\week2activity.exe
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\obj\Debug\week2activity.pdb
+C:\Users\Paul\Dropbox\School\POS409\Week2\week2activity\week2activity\obj\Debug\week2activity.csprojResolveAssemblyReference.cache
